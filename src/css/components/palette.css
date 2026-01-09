@@ -54,6 +54,16 @@
     border: 2px solid var(--color-glass-border);
 }
 
+/* Bordure spéciale pour le bloc blanc */
+.block-item[data-color="#ffffff"] .block-preview {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+/* Bordure spéciale pour le bloc noir */
+.block-item[data-color="#000000"] .block-preview {
+    border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
 .block-name {
     font-size: 0.9em;
     font-weight: 500;
