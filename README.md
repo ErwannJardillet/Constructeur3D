@@ -2,6 +2,10 @@
 
 Application web interactive de construction 3D avec des blocs colorés sur une grille, utilisant Three.js.
 
+## 🌐 Démo en ligne
+
+🎮 **[Essayer l'application en ligne](https://erwannjardillet.github.io/Constructeur3D/)**
+
 ## 🚀 Fonctionnalités
 
 - **Construction 3D** : Placez des blocs colorés sur une grille interactive
@@ -139,6 +143,10 @@ Le projet utilise une architecture modulaire avec :
 
 - Navigateurs modernes supportant les modules ES6
 - WebGL activé
+
+## 🔗 Liens
+
+- **Site en ligne** : [https://erwannjardillet.github.io/Constructeur3D/](https://erwannjardillet.github.io/Constructeur3D/)
 
 ## 📝 Licence
 
